@@ -11,7 +11,7 @@
 ## **Back-End**
 
 - Back-end - Hosted version Link: https://accessapp-be.herokuapp.com/api/
-- Back-End - Git-Hub Repo Link: https://github.com/MKD01/AccessApp-BE
+- Back-End - Git-Hub Repo Link: https://github.com/MKD01/accessapp-be
 
 ## **Front-End (For this Back-End API)**
 
@@ -51,7 +51,7 @@ All other application dependencies are listed in the `package.json` file, FYI.
 - In your teminal CLI:
 
 ```
-$ git clone https://github.com/MKD01/AccessApp-BE.git
+$ git clone https://github.com/MKD01/accessapp-be.git
 $ cd AccessApp-BE
 ```
 
