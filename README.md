@@ -15,7 +15,7 @@
 
 ## **Front-End (For this Back-End API)**
 
-- Front-End - Hosted version Link: https://inclusive-manchester.netlify.app/
+- Front-End - Hosted version Link: https://inclusive-manchester-accessapp.netlify.app/
 - Front-End - Git-Hub Repo Link: https://github.com/MKD01/accessapp-fe
 
 ---
@@ -26,7 +26,7 @@ An API for the AccessApp: Built using Node.js, Express.js server and a MongoDB d
 
 All endpoints can be found in the `endpoints.json` file or go to https://accessapp-be.onrender.com/api which lists all endpoints which can be interacted with.
 
-There is a front-end app available for this API, which will allow you to interact with it, available at: https://inclusive-manchester.netlify.app/
+There is a front-end app available for this API, which will allow you to interact with it, available at: https://inclusive-manchester-accessapp.netlify.app/
 
 ---
 
