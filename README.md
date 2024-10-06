@@ -10,7 +10,7 @@
 
 ## **Back-End**
 
-- Back-end - Hosted version Link: https://accessapp-be.herokuapp.com/api/
+- Back-end - Hosted version Link: https://accessapp-be.onrender.com/api
 - Back-End - Git-Hub Repo Link: https://github.com/MKD01/accessapp-be
 
 ## **Front-End (For this Back-End API)**
@@ -24,7 +24,7 @@
 
 An API for the AccessApp: Built using Node.js, Express.js server and a MongoDB database using 'Mongoose'.
 
-All endpoints can be found in the `endpoints.json` file or go to https://accessapp-be.herokuapp.com/api/ which lists all endpoints which can be interacted with.
+All endpoints can be found in the `endpoints.json` file or go to https://accessapp-be.onrender.com/api which lists all endpoints which can be interacted with.
 
 There is a front-end app available for this API, which will allow you to interact with it, available at: https://inclusive-manchester.netlify.app/
 
